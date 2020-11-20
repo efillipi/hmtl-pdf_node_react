@@ -1,0 +1,8 @@
+Referencia
+https://www.youtube.com/watch?v=RFtZctuI_1Y&list=LL&index=1&ab_channel=VictorLima-GuiadoProgramador
+
+copiar para seu diretorio
+npm intall
+
+npm start na pasta backend
+npm start na pasta frontend
